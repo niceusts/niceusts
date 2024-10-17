@@ -47,13 +47,6 @@ Portfolio: [meu-portfolio-flame-eta.vercel.app](https://meu-portfolio-flame-eta.
 
 ---
 
-## 🗣️ Languages
-
-- Advanced English
-- Intermediate Spanish
-
----
-
 ## 🎓 Education
 
 **Bachelor's in Information Systems**  
