@@ -51,7 +51,7 @@ Portfolio: [meu-portfolio-flame-eta.vercel.app](https://meu-portfolio-flame-eta.
 
 **Bachelor's in Information Systems**  
 Federal University of Sergipe (UFS)  
-Expected Graduation: [Your Expected Graduation Year]
+Expected Graduation: 2025.2
 
 ---
 
