@@ -13,15 +13,10 @@ Portfolio: [meu-portfolio-flame-eta.vercel.app](https://meu-portfolio-flame-eta.
 
 ---
 
-### ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytic
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/niceusts" title="Niceu's GitHub Profile">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niceusts&show_icons=true&theme=dark"/>
-      </a>
-    </td>
     <td>
       <a href="https://github.com/niceusts" title="Niceu's GitHub Top Languages">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niceusts&layout=compact&langs_count=7&theme=dark"/>
