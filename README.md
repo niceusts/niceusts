@@ -39,6 +39,7 @@ Portfolio: [meu-portfolio-flame-eta.vercel.app](https://meu-portfolio-flame-eta.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/dotnet/dotnet.png" alt=".NET"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" alt="SQL Server"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" alt="NestJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/python/python.png" alt="Python"/></code>
 
 ---
 
