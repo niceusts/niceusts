@@ -1,6 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Niceu Santos Biriba!
 
-<img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" alt="Developer Penguin" min-width="200px" max-width="200px" width="200px" align="right">
 
 
 I am a Web Developer with solid experience in developing Web Services. Currently, I work as a fullstack developer at the City Hall of Estância, applying my skills in C#, .NET, React, and SQL. During my studies at the Federal University of Sergipe (UFS), I also explored Next.js and NestJS.
