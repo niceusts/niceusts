@@ -12,20 +12,6 @@ Portfolio: [meu-portfolio-flame-eta.vercel.app](https://meu-portfolio-flame-eta.
 
 ---
 
-### ⚙️ GitHub Analytic
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/niceusts" title="Niceu's GitHub Top Languages">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niceusts&layout=compact&langs_count=7&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🦄 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/html/html.png" alt="HTML"/></code>
